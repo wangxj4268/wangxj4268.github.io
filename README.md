@@ -1,37 +1,10 @@
 ## 欢迎来到我的博客主页
 
-You can use the [editor on GitHub](https://github.com/wangxj4268/wangxj4268.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+项目介绍
+###1.自动化打包ipa并上传到fir或App Store
 ```
+本文的目的是通过简单的几句命令行，实现自动编译，打包并上传到蒲公英分发给测试人员使用，或者上传到App Store简化上线发布的流程。
+从此，发包的的路上可以高枕无忧了。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangxj4268/wangxj4268.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
+https://github.com/wangxj4268/TestDemo.git
